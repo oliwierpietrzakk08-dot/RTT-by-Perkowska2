@@ -56,7 +56,7 @@ export default function Navbar() {
               href="https://www.facebook.com/rttbyperkowska/"
               target="_blank"
               rel="noopener noreferrer"
-              className="p-1.5 text-[#1877F2] border border-transparent hover:border-[#1877F2] transition-all rounded-sm"
+              className="flex items-center justify-center w-8 h-8 bg-[#1877F2] text-white rounded-sm hover:opacity-90 transition-opacity"
               aria-label="Facebook"
             >
               <Facebook className="w-5 h-5 fill-current" />
